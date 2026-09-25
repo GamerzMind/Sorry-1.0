@@ -4,7 +4,7 @@ const SONG_START_AT = 0;        // seconds, e.g. 35 to skip the intro
 const SONG_VOLUME = 0.6;        // 0 to 1
 const TAP_TEXT = "Tap to open 🌸";
 const MESSAGE = "Sorry, Arshee 🌸";   // fades in after the flowers bloom ("" to hide)
-const SUB_MESSAGE = "tap anywhere ✨"; // small line under it ("" to hide)
+const SUB_MESSAGE = "✨"; // small line under it ("" to hide)
 /* ==================================== */
 
 // handwritten font for the message
